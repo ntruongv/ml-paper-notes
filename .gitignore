@@ -1,0 +1,10 @@
+.DS_Store
+
+# Local PDFs can be large or copyrighted; keep links in notes instead.
+pdfs/
+*.pdf
+
+# Scratch files
+tmp/
+.cache/
+
