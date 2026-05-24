@@ -31,4 +31,3 @@ Put screenshots, diagrams, or local figures for a paper in an `assets/` folder b
 2. Copy `templates/paper-note.md` into the appropriate `papers/<year>/<paper-slug>/note.md`.
 3. Add topic links in `topics/` after the note has a stable takeaway.
 4. Promote especially useful papers to `reading-lists/favorites.md`.
-
