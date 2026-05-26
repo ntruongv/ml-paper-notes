@@ -60,3 +60,6 @@ Training objectives:
 ![alt text](assets/image6.png)
 
 </details>
+
+## Thoughts
+- Even though newer developments have moved on to earlier integration of vision / language, training with instruction-tuned etc., BLIP-2's results are still interesting, where it shows that specialist (visual) knowledge can be injected into frozen LLM with a relatively small adapter.
