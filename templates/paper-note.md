@@ -1,11 +1,11 @@
 ---
 title:
-authors:
+first author:
 year:
 venue:
 url:
 tags: []
-status: unread | skimming | read | reviewed
+status: skimming | read | reviewed
 ---
 
 # Title
